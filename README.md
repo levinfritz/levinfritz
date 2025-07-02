@@ -29,14 +29,27 @@ Ich bin ein 17-jähriger angehender **Informatiker EFZ in der Plattformentwicklu
 
 ### 📊 Meine GitHub-Statistiken
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=levinfritz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Levin's GitHub Stats" />
-  <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levinfritz&theme=dracula" alt="Levin's GitHub Streak" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levinfritz&layout=compact&langs_count=8&theme=dracula" alt="Levin's Top Languages" />
-  <br/>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=levinfritz&theme=dracula" alt="Levin's Activity Graph" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=levinfritz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Levin's GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levinfritz&layout=compact&langs_count=8&theme=dracula" alt="Levin's Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=levinfritz&theme=dracula" alt="Levin's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=levinfritz&theme=dracula" alt="Levin's Activity Graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
