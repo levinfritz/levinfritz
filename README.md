@@ -32,7 +32,11 @@ Ich bin ein 17-jähriger angehender **Informatiker EFZ in der Plattformentwicklu
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=levinfritz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Levin's GitHub Stats" />
   <br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levinfritz&theme=dracula" alt="Levin's GitHub Streak" />
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levinfritz&layout=compact&langs_count=8&theme=dracula" alt="Levin's Top Languages" />
+  <br/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=levinfritz&theme=dracula" alt="Levin's Activity Graph" />
 </p>
 
 ---
