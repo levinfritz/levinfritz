@@ -4,13 +4,14 @@
 
 ---
 
-### 👋 Hallo, ich bin Levin!
+### 👋 Hallo, Ich bin Levin!
 
 Ich bin ein 17-jähriger angehender **Informatiker EFZ in der Plattformentwicklung** aus der Schweiz. 🇨🇭
 
-- 🏢 Aktuell absolviere ich meine Ausbildung bei der **Stadtverwaltung St.Gallen**.
-- 🌱 Ich lerne und arbeite täglich mit neuen Technologien, um robuste und skalierbare IT-Lösungen zu bauen.
-- 👨‍💻 Mein Ziel ist es, ein Experte für moderne IT-Infrastrukturen und Cloud-Services zu werden.
+- 🏢 Aktuell absolviere ich meine Ausbildung bei der **Stadtverwaltung St.Gallen**
+- 🌱 Ich lerne und arbeite täglich mit neuen Technologien, um robuste und skalierbare IT-Lösungen zu entwickeln
+- 👨‍💻 Mein Ziel ist es, ein Experte für moderne IT-Infrastrukturen und Cloud-Services zu werden
+- 💡 Besonders interessiert mich die Automatisierung von Arbeitsabläufen und DevOps-Praktiken
 
 ---
 
@@ -24,6 +25,14 @@ Ich bin ein 17-jähriger angehender **Informatiker EFZ in der Plattformentwicklu
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
+
+---
+
+### 🔥 Aktueller Status
+
+- 📚 Zurzeit vertiefe ich mich in **Cloud-Architekturen** und **Containerisierung**
+- 🛠️ Arbeite an verschiedenen Automatisierungsprojekten mit **Docker** und **Bash**
+- 🎯 Plane die Erweiterung meiner Kenntnisse in **Kubernetes** und **CI/CD-Pipelines**
 
 ---
 
@@ -53,3 +62,17 @@ Ich bin ein 17-jähriger angehender **Informatiker EFZ in der Plattformentwicklu
 </div>
 
 ---
+
+### 📫 Kontakt
+
+<p align="center">
+  <a href="mailto:levin.fritz@bluewin.ch"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/levin-fritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/levinfritz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+<div align="center">
+  <i>💡 "Kontinuierliches Lernen ist der Schlüssel zum Erfolg in der IT."</i>
+</div>
