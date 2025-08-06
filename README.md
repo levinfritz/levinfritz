@@ -53,11 +53,6 @@ Ich bin ein 17-jähriger angehender **Informatiker EFZ in der Plattformentwicklu
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=levinfritz&theme=dracula" alt="Levin's GitHub Streak" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=levinfritz&theme=dracula" alt="Levin's Activity Graph" />
-      </td>
-    </tr>
   </table>
 </div>
 
