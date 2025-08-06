@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=levinfritz.levinfritz" alt="visitor badge"/>
-</div>
-
 ---
 
 ### 👋 Hallo, Ich bin Levin!
