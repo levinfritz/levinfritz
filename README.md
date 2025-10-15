@@ -46,7 +46,7 @@ Ich bin ein 17-jähriger angehender **Informatiker EFZ in der Plattformentwicklu
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=levinfritz&theme=dracula" alt="Levin's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=levinfritz&theme=dracula" alt="Levin's GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -60,6 +60,7 @@ Ich bin ein 17-jähriger angehender **Informatiker EFZ in der Plattformentwicklu
   <a href="mailto:levin.fritz@bluewin.ch"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/levin-fritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/levinfritz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/Stiefel08/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
